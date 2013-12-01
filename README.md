@@ -1,4 +1,4 @@
 project-pops
 ============
 
-Makes you instantly popular
+Android app that makes you instantly popular
